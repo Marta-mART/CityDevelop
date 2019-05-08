@@ -1,0 +1,29 @@
+Gra to symulacja miasta, w którym w miarê up³ywu czasu rosn¹ pieni¹dze.
+_________________________________________
+Dziêki nim mo¿esz kupowaæ budynki, które wp³ywaj¹ na sektory ¿ycia w mieœcie takie jak:
+- wygl¹d 
+- bezpieczeñstwo
+- edukacja
+- komunikacja
+- populacja
+_________________________________________
+
+Mo¿esz wybudowaæ:
+- posterunek policji
+- park
+- drogi
+- bank
+- szko³ê
+- lotnisko
+_________________________________________
+
+Ka¿dy budynek ma swoj¹ cenê i zwiêksza (lub zmniejsza od pewnych leveli) sektory ¿ycia miasta.
+
+W miarê up³ywu czasu przybywa do miasta wiêcej ludzi.
+
+Ale uwaga! Czasem mo¿e zdarzyæ siê wichura, która zniszczy Lokaln¹ Kasê Oszczêdnoœci.
+A przedwczesny rozwój banku mo¿e spowodowaæ spadek bezpieczeñstwa (jeœli nie rozbudowujemy policji). 
+Wiele osób to te¿ utrudnienia w komunikacji! Zbieraj wiêc na lotnisko, które to usprawni!
+
+_________________________________________
+Swoje wyniki mo¿esz zapisywaæ w Data Grid, by œledziæ swoj¹ historê.
